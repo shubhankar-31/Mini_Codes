@@ -7,9 +7,11 @@ This python can create "n" number of new folders
 Following are the steps for usage:-
 
 •	At the beginning of the program it will display the current working directory
+
 •	In this step the program will ask you to enter a new path for new folders.
         Following is an example:-
           F:\Job:\Company
+          
 •	In this step the program will ask you enter the number of new folders that you want to create
  
  
